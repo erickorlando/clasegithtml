@@ -7,6 +7,7 @@ h1{
     color: peru;
 }
 
-button{
+#boton{
     font-size: 30px;
+    background-color: teal;
 }
