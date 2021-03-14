@@ -9,5 +9,12 @@ h1{
 
 #boton{
     font-size: 30px;
-    background-color: teal;
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
+
+img {
+    width: 250px;
+    height: 300px;
 }
